@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>我的世界手机JAVA版pojav其他的教程</title>
+      <link href="/posts/b6cd8425.html"/>
+      <url>/posts/b6cd8425.html</url>
+      
+        <content type="html"><![CDATA[<h1>PojavLauncher 手机版Java启动器使用教程</h1><h2 id="目录">目录</h2><ol><li><p><a href="#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C">准备工作</a></p></li><li><p><a href="#%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85">下载与安装</a></p></li><li><p><a href="#%E9%A6%96%E6%AC%A1%E5%90%AF%E5%8A%A8%E9%85%8D%E7%BD%AE">首次启动配置</a></p></li><li><p><a href="#%E6%B8%B8%E6%88%8F%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86">游戏版本管理</a></p></li><li><p><a href="#%E6%B8%B8%E6%88%8F%E5%90%AF%E5%8A%A8%E8%AE%BE%E7%BD%AE">游戏启动设置</a></p></li><li><p><a href="#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3">常见问题解决</a></p></li></ol><hr><h2 id="a-id-准备工作-a-一、准备工作"><a id="准备工作"></a>一、准备工作</h2><h3 id="1-1-设备要求">1.1 设备要求</h3><ul><li><p>安卓系统（ios没试过）</p></li><li><p>建议存储空间：至少预留2GB可用空间</p></li><li><p>推荐配置：4GB RAM及以上设备</p></li></ul><h3 id="1-2-组件">1.2 组件</h3><ul><li>正版Microsoft账号（可选，但推荐使用）</li></ul><hr><h2 id="a-id-下载与安装-a-二、下载与安装"><a id="下载与安装"></a>二、下载与安装</h2><h3 id="2-1-获取安装包">2.1 获取安装包</h3><ol><li><p>访问<a href="https://github.com/PojavLauncherTeam/PojavLauncher/releases">GitHub Releases页面</a></p></li><li><p>下载最新版 <code>PojavLauncher-xxx.apk</code></p></li></ol><hr><h2 id="a-id-首次启动配置-a-三、首次启动配置"><a id="首次启动配置"></a>三、首次启动配置</h2><h3 id="3-1-基础设置">3.1 基础设置</h3><ol><li><p>首次启动选择语言</p></li><li><p>授予存储权限</p></li><li><p>登录/设置账号</p></li></ol><p>4.选择游戏版本（由于未知原因，1.21以上版本可能会报错或者无法启动）</p><h3 id="3-2-账户登录（有正版就使用微软登录）">3.2 账户登录（有正版就使用微软登录）</h3><ol><li><p>点击&quot;登录账号&quot;</p></li><li><p>根据提示完成设备验证流程</p></li></ol><hr><h2 id="a-id-游戏版本管理-a-四、游戏版本管理"><a id="游戏版本管理"></a>四、游戏版本管理</h2><h3 id="4-1-添加游戏版本">4.1 添加游戏版本</h3><ol><li><p>主界面点击&quot;Versions&quot;</p></li><li><p>选择需要的版本（推荐1.20.1）</p></li><li><p>等待自动下载依赖文件</p></li></ol><h3 id="4-2-安装模组加载器">4.2 安装模组加载器</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="bullet">-</span> Forge安装：</span><br><span class="line"></span><br><span class="line"><span class="bullet">  1.</span> 选择对应的正式版本</span><br><span class="line"></span><br><span class="line"><span class="bullet">  2.</span> 点击&quot;安装&quot;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="bullet">-</span> Fabric安装：</span><br><span class="line"></span><br><span class="line">  1.选择对应的正式版本</span><br><span class="line"></span><br><span class="line"><span class="bullet">  2.</span> 选择版本后</span><br><span class="line"></span><br><span class="line"><span class="bullet">  3.</span> 点击&quot;安装&quot;</span><br><span class="line"></span><br></pre></td></tr></table></figure><hr><h2 id="a-id-游戏启动设置-a-五、游戏启动设置"><a id="游戏启动设置"></a>五、游戏启动设置</h2><h3 id="5-1-启动参数配置">5.1 启动参数配置</h3><p>| 设置项          | 推荐值         |</p><p>|----------------|---------------|</p><p>| 分配内存        | 1024-2048MB   |</p><p>| 渲染器          | GL4ES/Vulkan  |</p><p>| 控制模式        | 触控/键鼠      |</p><h3 id="5-2-控制设置技巧">5.2 控制设置技巧</h3><ol><li><p>自定义布局：点击屏幕正上方的设置按钮</p></li><li><p>自定义按钮：点击添加后使用键盘输入对应的按键（不建议添加太多）</p></li><li><p>其他调节：建议保持默认值</p></li></ol><hr><h2 id="a-id-常见问题解决-a-六、常见问题解决"><a id="常见问题解决"></a>六、常见问题解决</h2><h3 id="6-1-启动失败">6.1 启动失败</h3><ul><li><p>✅ 检查Java路径是否正确</p></li><li><p>✅ 确保下载的版本完整</p></li><li><p>✅ 尝试切换其他版本</p></li></ul><h3 id="6-2-模组兼容性">6.2 模组兼容性</h3><ul><li><p>✖️ OptiFine可能需要特殊处理</p></li><li><p>✅ Fabric模组兼容性最佳</p></li><li><p>⚠️ 大型模组包建议分配3GB+内存</p></li></ul><hr><blockquote><p><strong>注意事项</strong>：</p></blockquote><blockquote><ol><li>本启动器需要自行承担使用风险</li></ol></blockquote><blockquote><ol start="2"><li>Java 17对部分旧版模组支持不佳</li></ol></blockquote><blockquote><ol start="3"><li>建议通过官方渠道获取游戏资源</li></ol></blockquote><pre><code></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 我的世界手机启动器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的世界 /give指令及NBT标签</title>
       <link href="/posts/MC-/give%20nbt.html"/>
       <url>/posts/MC-/give%20nbt.html</url>
