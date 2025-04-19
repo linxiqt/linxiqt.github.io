@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/life/games/index.html</loc>
-    
-    <lastmod>2025-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yilx.net/life/movies/index.html</loc>
-    
-    <lastmod>2025-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yilx.net/life/music/index.html</loc>
-    
-    <lastmod>2025-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yilx.net/personal/about/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
@@ -93,6 +66,33 @@
   
   <url>
     <loc>https://blog.yilx.net/social/link/index.html</loc>
+    
+    <lastmod>2025-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/life/games/index.html</loc>
+    
+    <lastmod>2025-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/life/movies/index.html</loc>
+    
+    <lastmod>2025-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/life/music/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -221,14 +221,14 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/tags/MC%E6%8C%87%E4%BB%A4/</loc>
+    <loc>https://blog.yilx.net/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%9C%BA%E5%90%AF%E5%8A%A8%E5%99%A8/</loc>
     <lastmod>2025-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%9C%BA%E5%90%AF%E5%8A%A8%E5%99%A8/</loc>
+    <loc>https://blog.yilx.net/tags/MC%E6%8C%87%E4%BB%A4/</loc>
     <lastmod>2025-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
