@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>宝塔邮局域名解析教程</title>
+      <link href="/posts/c1377a26.html"/>
+      <url>/posts/c1377a26.html</url>
+      
+        <content type="html"><![CDATA[<h1>邮局域名解析教程</h1><h2 id="STEP1">STEP1</h2><p>更多搭邮局教程请在邮局输入“宝塔邮局”。首先，</p><p>解析记录</p><p>记录类型：A</p><p>主机记录：mail（这里也可以填别的）</p><p>记录值：111.180.189.230（这里填写的是你的服务器IPV4地址，也就是公网ip）</p><p><img src="https://api.yilx.net/image/blog-domain-resolution/Screenshot_20250419_170716.jpg" alt=""></p><p>到这里第一条添加就完成了。</p><h2 id="STEP2">STEP2</h2><p>记录类型：MX</p><p>主机记录：@</p><p>记录值：<a href="http://mail.example.com">mail.example.com</a>（这里是你第一步填写的主机记录＋你的顶级域名，比如example.com也就是一级域名）</p><p>优先级：10</p><h2 id="STEP3">STEP3</h2><p>记录类型：TXT</p><p>主机记录：@</p><p>记录值：v=spf1 a mx ip4:你的IP ~all（这里不建议使用宝塔给的解析，推荐使用本文提供的这个,并且记得把『你的IP』换成你服务器的公网ip）</p><h2 id="STEP4">STEP4</h2><p>记录类型：TXT</p><p>主机记录：_dmarc</p><p>记录值：v=DMARC1;p=quarantine;rua=mailto:admin@example.com（admin@example.com换成admin@你的一级域名）</p><h2 id="STEP5">STEP5</h2><p>记录类型：TXT</p><p>主机记录：default._domainkey</p><p>记录值：v=DKIM1;k=rsa;p=……（这里填写宝塔邮局提供给你的，如果这里是空的请前往[宝塔邮局-rspamd安装]安装rspamd后恢复正常再来添加）</p><p>到这里所有解析就添加完毕了。</p><h2 id="如何使用二级域名">如何使用二级域名</h2><p>和使用一级域名一样，假如你的二级域名是info：</p><ul><li><strong>STEP1中</strong><a href="http://xn--mailmail-5g0m666ithh2pisreotr5k9jmkh.info">主机记录mail就要换成mail.info</a>。</li><li><strong>STEP2中</strong>@要换成info，<a href="http://xn--mail-fc5f97im97a9sb13ktsdd16muqf.info.example.com">并且记录值要换成mail.info.example.com</a>（example.com换成你的一级域名）。</li><li><strong>STEP3中</strong>@也要换成info。</li><li><strong>STEP4中</strong>把_dmarc改为_dmarc.info。</li><li><strong>STEP5中的</strong>default._domainkey也是要改为default._domainkey.info。</li></ul><p>使用更多级域名也是如此。</p><p>希望以上步骤可以帮助你顺利完成域名解析的设置。如果在操作过程中遇到任何问题，可以随时联系阿里云的技术支持。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 宝塔邮局 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的世界linux服务器开服教程</title>
       <link href="/posts/c72f19f3.html"/>
       <url>/posts/c72f19f3.html</url>

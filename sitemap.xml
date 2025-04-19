@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/life/games/index.html</loc>
-    
-    <lastmod>2025-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yilx.net/life/movies/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
@@ -56,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/site/census/index.html</loc>
+    <loc>https://blog.yilx.net/personal/love/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -65,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/personal/love/index.html</loc>
+    <loc>https://blog.yilx.net/site/census/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -93,6 +84,15 @@
   
   <url>
     <loc>https://blog.yilx.net/social/link/index.html</loc>
+    
+    <lastmod>2025-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/life/games/index.html</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -129,6 +129,15 @@
   
   <url>
     <loc>https://blog.yilx.net/box/nav/index.html</loc>
+    
+    <lastmod>2025-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/posts/c1377a26.html</loc>
     
     <lastmod>2025-04-19</lastmod>
     
@@ -228,6 +237,13 @@
   </url>
   
   <url>
+    <loc>https://blog.yilx.net/tags/%E5%AE%9D%E5%A1%94%E9%82%AE%E5%B1%80/</loc>
+    <lastmod>2025-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yilx.net/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%9C%BA%E5%90%AF%E5%8A%A8%E5%99%A8/</loc>
     <lastmod>2025-04-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -244,14 +260,14 @@
 
   
   <url>
-    <loc>https://blog.yilx.net/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://blog.yilx.net/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2025-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://blog.yilx.net/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
