@@ -11,33 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/life/movies/index.html</loc>
-    
-    <lastmod>2025-04-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yilx.net/life/music/index.html</loc>
-    
-    <lastmod>2025-04-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.yilx.net/personal/about/index.html</loc>
-    
-    <lastmod>2025-04-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.yilx.net/personal/bb/index.html</loc>
     
     <lastmod>2025-04-29</lastmod>
@@ -101,6 +74,33 @@
   </url>
   
   <url>
+    <loc>https://blog.yilx.net/life/movies/index.html</loc>
+    
+    <lastmod>2025-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/personal/about/index.html</loc>
+    
+    <lastmod>2025-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.yilx.net/life/music/index.html</loc>
+    
+    <lastmod>2025-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.yilx.net/categories/index.html</loc>
     
     <lastmod>2025-04-29</lastmod>
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/box/nav/index.html</loc>
+    <loc>https://blog.yilx.net/box/gallery/index.html</loc>
     
     <lastmod>2025-04-29</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://blog.yilx.net/box/gallery/index.html</loc>
+    <loc>https://blog.yilx.net/box/nav/index.html</loc>
     
     <lastmod>2025-04-29</lastmod>
     
